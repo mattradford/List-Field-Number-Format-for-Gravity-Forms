@@ -2,8 +2,9 @@
     "name": "mattradford/list-field-number-format-for-gravity-forms",
     "description": "Transforms Gravity Forms list field columns into number fields with formatting, calculations, and validation.",
     "type": "wordpress-plugin",
+    "version": "2.0.3",
     "keywords": ["gravity forms", "list field", "number format", "calculations"],
-    "homepage": "https://github.com/mattradford/List-Field-Number-Format-For-Gravity-Forms",
+    "homepage": "https://github.com/mattradford/List-Field-Number-Format-for-Gravity-Forms",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
