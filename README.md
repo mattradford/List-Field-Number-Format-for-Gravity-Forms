@@ -30,7 +30,7 @@ A Gravity Forms add-on plugin that transforms list field columns into powerful n
 2. Upload the plugin ZIP file
 3. Activate the plugin
 
-### Via FTP
+### Via SFTP
 1. Upload the plugin folder to `/wp-content/plugins/`
 2. Activate the plugin through the **Plugins** menu in WordPress
 
