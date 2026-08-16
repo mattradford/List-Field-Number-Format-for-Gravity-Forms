@@ -62,11 +62,6 @@ composer require mattradford/list-field-number-format:dev-main
 - `{field_id:column_number}` - Reference a specific column in a list field
 - `{field_id}` - Reference a standard field value
 
-## Screenshots
-
-*(Add screenshots of the plugin in action)*
-
-## Frequently Asked Questions
 
 ### Does this work with the latest Gravity Forms?
 Yes, the plugin is compatible with Gravity Forms 2.9 and later. It uses the modern `gform.utils.isNumber()` API with fallback to the deprecated `gformIsNumber()` for older versions.
